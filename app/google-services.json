@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762246197376",
+    "firebase_url": "https://let-sgotour-default-rtdb.firebaseio.com",
+    "project_id": "let-sgotour",
+    "storage_bucket": "let-sgotour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762246197376:android:f44e953219aa9880b33665",
+        "android_client_info": {
+          "package_name": "com.example.letsgotour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762246197376-gfilra7c8v7nsiqtn4i8b8heft59b286.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letsgotour",
+            "certificate_hash": "6bf7cda869a5b7c4e852d234b381c3542909662b"
+          }
+        },
+        {
+          "client_id": "762246197376-gmu2j6r38vn4ci4lsmp1jl2ebl3ogc9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7cMbx_Mc1nQBvqXJIL8pPIOl8_mhrj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762246197376-gmu2j6r38vn4ci4lsmp1jl2ebl3ogc9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

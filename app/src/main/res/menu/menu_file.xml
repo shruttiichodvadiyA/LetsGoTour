@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/dashboard"
+        android:iconTint="@color/text_color"
+        android:id="@+id/dashboard"
+        android:title="DashBoard" />
+    <item
+        android:icon="@drawable/tourpackage"
+        android:iconTint="@color/text_color"
+        android:id="@+id/DisplayItem"
+        android:title="TourPackage" />
+    <item
+        android:icon="@drawable/tourdestination"
+        android:iconTint="@color/text_color"
+        android:id="@+id/OpenMap"
+        android:title="ChoiceDestination" />
+    <item
+        android:icon="@drawable/addpackage"
+        android:iconTint="@color/text_color"
+        android:id="@+id/AddPackage"
+        android:title="AddPackage" />
+    <item
+        android:icon="@drawable/chnagepassword"
+        android:iconTint="@color/text_color"
+        android:id="@+id/changePassword"
+        android:title="Change Password"/>
+    <item
+        android:icon="@drawable/logout"
+        android:iconTint="@color/text_color"
+        android:id="@+id/logOut"
+        android:title="Log Out"/>
+</menu>

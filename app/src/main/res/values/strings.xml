@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Let\'sGoTour</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">720214483139585</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">e77636c5fab5848ac654e9f74598ade5</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="titleSplash">Keep you travel very com comfortable, easy and
+explore the world with travelm.</string>
+    <string name="title_activity_draw_line_map">DrawLineMap</string>
+    <string name="UnitIdBanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="UnitIdInterstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="AdAppId">ca-app-pub-3940256099942544~3347511713</string>
+
+</resources>
